@@ -23,8 +23,8 @@ class input{
         Float imc = (peso1) % (altura1 * altura1);
 
         If (imc < 16,9 ) { 
-            System.out.println("");
+            System.out.println(nome1, " tem " , altura1 , " de altura e pesa " , peso1 , "kg. Sua situação é MUITO ABAIXO DO PESO.");
 
-        }
+        } else if ()
     
 }
